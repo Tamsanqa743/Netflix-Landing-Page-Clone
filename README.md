@@ -3,6 +3,7 @@
 This is a netflix landing page clone. It was deplyed using the Netlify platform.
 
 ##Technologies
-Project is cretaed with:
+
+Project is created with:
 * HTML 5
 * CSS
