@@ -87,6 +87,7 @@
         justify-content: center;
         align-items: center;
         text-align: center;
+       
     } 
 
     .get-started-form{
@@ -125,4 +126,12 @@
         columns:2;
         padding:0px;
       }
+      .tv-container > img{
+        width:100%;
+      }
+      
+      .tv-container > video{
+        width:100%;
+      }
+
 }
