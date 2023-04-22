@@ -166,6 +166,12 @@ body{
   padding:0px;
 }
 
+.footer-links li a{
+  color:#6a6a6a;
+  font-size:13px;
+  line-height: 2;
+}
+
 .language{
   height: 53px;
   width: 142px;
@@ -194,4 +200,40 @@ body{
   margin-top: 24px;
 
   color:#737373;
+}
+
+/* style email me link */
+
+.email-me{
+  color: #5e5e5e;
+}
+
+.email-me address a{
+  color: #6a6a6a;
+}
+/* style ordered list items */
+ol li{
+  color: #6a6a6a;
+  font-size:13px;
+  line-height: 2;
+  margin: 0;
+}
+
+/* add hover effect to ordered list items */
+ol li:hover{
+  text-decoration: underline;
+  cursor:pointer;
+}
+
+/* style extra links section */
+.extra-links, .extra-links a{
+  color: #6a6a6a;
+  font-size:13px;
+  line-height: 2;
+  margin: 0;
+}
+
+.extra-links a:hover{
+    text-decoration: underline;
+    cursor:pointer;
 }
